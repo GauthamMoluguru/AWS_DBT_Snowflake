@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('silver_listings') }} limit 100

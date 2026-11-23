@@ -1,0 +1,8 @@
+sources:
+  - name: SNOW_SCHEMA
+    database: AIRBNB  
+    schema: SNOW_SCHEMA  
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts
